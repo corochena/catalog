@@ -1,4 +1,6 @@
-# Programas realizados
+# Programas por realizar
+Homepage for all programs
+Shapes, colors and numbers
 
 # Patrones e Ilusiones ópticas
 Bolas moviendose dentro de un circulo  
