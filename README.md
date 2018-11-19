@@ -1,5 +1,4 @@
-# Programs
-Un listado de programas realizados
+# Programas realizados
 
 # Patrones e Ilusiones ópticas
 Bolas moviendose dentro de un circulo  
