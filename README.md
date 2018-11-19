@@ -40,3 +40,4 @@ Global temperature, d3 visualizacion
 # Matematicas
 Resuelve un sistema de n ecuaciones usando Gauss simple  
 Hace un modelo de regresion multiple o regresion polinomial  
+Integrales dobles y triples
