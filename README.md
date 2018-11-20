@@ -42,7 +42,7 @@ Shapes, colors and numbers
 7. [Grid and colors](https://codepen.io/corochena/full/eWWEeq/)
 
 # Matematicas
-1. Resuelve un sistema de n ecuaciones usando Gauss simple  
+1. [Resuelve un sistema de n ecuaciones usando Gauss simple](https://codepen.io/corochena/full/RLgMvr/)  
 2. Hace un modelo de regresion multiple o regresion polinomial  
 3. [Integrales dobles y triples](https://codepen.io/corochena/pen/XzzOya)  
 4. [Triangulo de Pascal](https://codepen.io/corochena/pen/qogGqr)
