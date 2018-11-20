@@ -29,7 +29,7 @@ Shapes, colors and numbers
 # Proyectos en Python
 1. [Descifra un codigo cifrado en Vigenere](http://www.codeskulptor.org/#user38_5N4oprCuHA_0.py)  
 2. [Juego RiceRocks. Una nave se mueve con las direccionales, dispara y destruye asteroides](http://www.codeskulptor.org/#user38_lhjpk3XgEL_5.py)
-3. [Juego Pong](https://codepen.io/corochena/full/ZKKyNq/)  
+3. [Juego Pong](http://www.codeskulptor.org/#user38_bpjC5zrBNNr6qzu_7.py)  
 4. [Juego Blackjack](http://www.codeskulptor.org/#user38_Bl9390ut0w_2.py)  
 
 # Proyectos freeCodeCamp, Coursera
