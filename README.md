@@ -27,10 +27,10 @@ Shapes, colors and numbers
 10. [Superposicion de ondas senoidales](https://codepen.io/corochena/full/BRRZyo/)  
 
 # Proyectos en Python
-1. Descifra un codigo cifrado en Vigenere  
-2. Juego RiceRocks. Una nave se mueve con las direccionales, dispara y destruye asteroides, toca una animacion cuando los destruye  
+1. [Descifra un codigo cifrado en Vigenere](http://www.codeskulptor.org/#user38_5N4oprCuHA_0.py)  
+2. [Juego RiceRocks. Una nave se mueve con las direccionales, dispara y destruye asteroides](http://www.codeskulptor.org/#user38_lhjpk3XgEL_5.py)
 3. [Juego Pong](https://codepen.io/corochena/full/ZKKyNq/)  
-4. Juego Blackjack  
+4. [Juego Blackjack](http://www.codeskulptor.org/#user38_Bl9390ut0w_2.py)  
 
 # Proyectos freeCodeCamp, Coursera
 1. [Juego Simon](https://codepen.io/corochena/full/gWKjzr/)  
