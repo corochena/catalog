@@ -17,7 +17,7 @@ Shapes, colors and numbers
 # Originales
 1. [Tablero de ajedrez que graba las jugadas y decide los turnos](https://codepen.io/corochena/full/bWWrbY/)  
 2. [Sopa de letras, busca si existe una palabra en todas direcciones en una gran matriz de letras](https://codepen.io/corochena/full/VbbzzP/)  
-3. [Vocabulario, presenta imagenes de palabras comunes, las pronuncia y toca un sonido si esta disponible]()  
+3. [Vocabulario, presenta imagenes de palabras comunes, las pronuncia y toca un sonido si esta disponible](https://corochena.github.io/vocab/)  
 4. [Campos electricos de n cargas puntuales](https://codepen.io/corochena/full/jmmwrB/)  
 5. [Conexion de puntos en un circulo formando un patron de lineas](https://codepen.io/corochena/full/GdOLpz/)  
 6. [Aproximaciones de Pi, d3 visualization](https://codepen.io/corochena/full/PyWPyM/)  
