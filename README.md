@@ -10,7 +10,7 @@ Shapes, colors and numbers
 5. [Figuras de Lissajous, Roger Antonsen](https://codepen.io/corochena/full/jzLxgV/)  
 6. [Phillotaxis](https://codepen.io/corochena/full/oyWqZx/)  
 7. [Ying-Yang](https://codepen.io/corochena/full/rdwWKb/)  
-8. Patatap clone, curso Colt Steele udemy  
+8. [Patatap clone, curso Colt Steele udemy](https://corochena.github.io/patatap/)  
 9. [RGB game, curso Colt Steele udemy](https://codepen.io/corochena/full/vpVLyM/)  
 10. [Roses, the coding train](https://codepen.io/corochena/full/zadRWp/)  
 
