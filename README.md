@@ -43,6 +43,6 @@ Shapes, colors and numbers
 
 # Matematicas
 1. [Resuelve un sistema de n ecuaciones usando Gauss simple](https://codepen.io/corochena/full/RLgMvr/)  
-2. Hace un modelo de regresion multiple o regresion polinomial  
+2. [Hace un modelo de regresion multiple o regresion polinomial](https://corochena.github.io/regresion/)  
 3. [Integrales dobles y triples](https://codepen.io/corochena/pen/XzzOya)  
 4. [Triangulo de Pascal](https://codepen.io/corochena/pen/qogGqr)
