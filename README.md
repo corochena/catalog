@@ -19,7 +19,7 @@ Shapes, colors and numbers
 4. [Campos electricos de n cargas puntuales](https://corochena.github.io/electric-field/)  
 5. [Conexion de puntos en un circulo formando un patron de lineas](https://codepen.io/corochena/full/GdOLpz/)  
 6. [Aproximaciones de Pi, d3 visualization](https://corochena.github.io/pi/)  
-7. [Aproximacion de Pi, Buffon´s needle](https://codepen.io/corochena/full/JNNNoN/)  
+7. [Aproximacion de Pi, Buffon´s needle](https://corochena.github.io/buffon-needle/)  
 8. [Numeros a Letras, convierte un numero 146 a letras ciento cuarenta y seis, llega hasta los quintillones](https://codepen.io/corochena/full/YEXRBe/)  
 9. [Poligons, muestra poligonos y estrellas, girando](https://codepen.io/corochena/full/EmmXrM/)  
 10. [Superposicion de ondas senoidales](https://codepen.io/corochena/full/BRRZyo/)  
