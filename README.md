@@ -4,7 +4,7 @@ Shapes, colors and numbers
 
 # Patrones e Ilusiones ópticas
 1. [Bolas moviendose dentro de un circulo](https://corochena.github.io/optical-ilussion/)  
-2. [Muchos Puntos girando alrededor de un circulo creando un efecto de ola](https://corochena.github.io/waves-and-circles/)  
+2. [Muchos Puntos girando alrededor de un circulo creando un efecto de ola](https://corochena.github.io/circles-and-waves/)  
 3. [Pendulos sincronizados](https://corochena.github.io/pendulos/)  
 4. [Pendulo doble implementando algoritmo Runge-Kutta](https://corochena.github.io/pendulo-doble/)  
 5. [Figuras de Lissajous, Roger Antonsen](https://codepen.io/corochena/full/jzLxgV/)  
