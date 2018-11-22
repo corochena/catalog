@@ -7,7 +7,7 @@ Shapes, colors and numbers with Web Speech API
 2. [Muchos Puntos girando alrededor de un circulo creando un efecto de ola](https://corochena.github.io/circles-and-waves/)  
 3. [Pendulos sincronizados](https://corochena.github.io/pendulos/)  
 4. [Pendulo doble implementando algoritmo Runge-Kutta](https://corochena.github.io/pendulo-doble/)  
-5. [Figuras de Lissajous, Roger Antonsen](https://codepen.io/corochena/full/jzLxgV/)  
+5. [Figuras de Lissajous, Roger Antonsen](https://corochena.github.io/pretzel/)  
 6. [Phillotaxis](https://codepen.io/corochena/full/oyWqZx/)  
 7. [Ying-Yang](https://codepen.io/corochena/full/rdwWKb/)  
 8. [Roses, the coding train](https://codepen.io/corochena/full/zadRWp/)  
@@ -21,7 +21,7 @@ Shapes, colors and numbers with Web Speech API
 6. [Aproximaciones de Pi, d3 visualization](https://corochena.github.io/pi/)  
 7. [Aproximacion de Pi, Buffon´s needle](https://corochena.github.io/buffon-needle/)  
 8. [Numeros a Letras, convierte un numero 146 a letras ciento cuarenta y seis, llega hasta los quintillones](https://codepen.io/corochena/full/YEXRBe/)  
-9. [Poligons, muestra poligonos y estrellas, girando](https://codepen.io/corochena/full/EmmXrM/)  
+9. [Poligons, muestra poligonos y estrellas, girando](https://corochena.github.io/polygons/)  
 10. [Superposicion de ondas senoidales](https://codepen.io/corochena/full/BRRZyo/)  
 
 # Proyectos en Python
