@@ -31,13 +31,13 @@ Shapes, colors and numbers
 4. [Juego Blackjack](http://www.codeskulptor.org/#user38_Bl9390ut0w_2.py)  
 
 # Proyectos freeCodeCamp, Coursera, Udemy
-1. [Juego Simon](https://codepen.io/corochena/full/gWKjzr/)  
-2. [Calculadora](https://codepen.io/corochena/full/LyOqeV/)  
-3. [Gross Domestic Product USA, d3 visualization](https://corochena.github.io/barchart/)  
-4. [Doping scatter chart, d3 visualization](https://corochena.github.io/scatterplot/)  
-5. [Global temperature, d3 visualizacion](https://corochena.github.io/heat-map/)  
-6. [Divs and colors](https://codepen.io/corochena/pen/pPPraY)
-7. [Grid and colors](https://codepen.io/corochena/full/eWWEeq/)
+1. [Juego Simon, fcc](https://codepen.io/corochena/full/gWKjzr/)  
+2. [Calculadora, fcc](https://codepen.io/corochena/full/LyOqeV/)  
+3. [Gross Domestic Product USA, d3 visualization, fcc](https://corochena.github.io/barchart/)  
+4. [Doping scatter chart, d3 visualization, fcc](https://corochena.github.io/scatterplot/)  
+5. [Global temperature, d3 visualizacion, fcc](https://corochena.github.io/heat-map/)  
+6. [Divs and colors, coursera](https://codepen.io/corochena/pen/pPPraY)
+7. [Grid and colors, coursera](https://codepen.io/corochena/full/eWWEeq/)
 8. [Patatap clone, curso Colt Steele udemy](https://corochena.github.io/patatap/)  
 9. [RGB game, curso Colt Steele udemy](https://codepen.io/corochena/full/vpVLyM/)  
 
