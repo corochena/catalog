@@ -14,7 +14,7 @@ Shapes, colors and numbers with Web Speech API
 
 # Originales
 1. [Tablero de ajedrez que graba las jugadas y decide los turnos](https://corochena.github.io/chess/)  
-2. [Sopa de letras, busca si existe una palabra en todas direcciones en una gran matriz de letras](https://corochena.github.io/soup-letter/)  
+2. [Sopa de letras, busca si existe una palabra en todas direcciones en una gran matriz de letras](https://corochena.github.io/letter-soup/)  
 3. [Vocabulario, presenta imagenes de palabras comunes, las pronuncia y toca un sonido si esta disponible](https://corochena.github.io/vocab/)  
 4. [Campos electricos de n cargas puntuales](https://corochena.github.io/electric-field/)  
 5. [Conexion de puntos en un circulo formando un patron de lineas](https://corochena.github.io/polilines/)  
