@@ -23,6 +23,7 @@ Shapes, colors and numbers with Web Speech API
 8. [Numeros a Letras, convierte un numero 146 a letras ciento cuarenta y seis, llega hasta los quintillones](https://corochena.github.io/numtoletras/)  
 9. [Poligons, muestra poligonos y estrellas, girando](https://corochena.github.io/polygons/)  
 10. [Superposicion de ondas senoidales](https://corochena.github.io/superposition/)  
+11. [Campo de pendientes de distintas funciones](https://corochena.github.io/slopes/)
 
 # Proyectos en Python
 1. [Descifra un codigo cifrado en Vigenere](http://www.codeskulptor.org/#user38_5N4oprCuHA_0.py)  
