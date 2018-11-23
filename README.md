@@ -8,21 +8,21 @@ Shapes, colors and numbers with Web Speech API
 3. [Pendulos sincronizados](https://corochena.github.io/pendulos/)  
 4. [Pendulo doble implementando algoritmo Runge-Kutta](https://corochena.github.io/pendulo-doble/)  
 5. [Figuras de Lissajous, Roger Antonsen](https://corochena.github.io/pretzel/)  
-6. [Phillotaxis](https://codepen.io/corochena/full/oyWqZx/)  
-7. [Ying-Yang](https://codepen.io/corochena/full/rdwWKb/)  
-8. [Roses, the coding train](https://codepen.io/corochena/full/zadRWp/)  
+6. [Phillotaxis](https://corochena.github.io/phillotaxis/)  
+7. [Ying-Yang](https://corochena.github.io/ying-yang/)  
+8. [Roses, the coding train](https://corochena.github.io/roses/)  
 
 # Originales
 1. [Tablero de ajedrez que graba las jugadas y decide los turnos](https://corochena.github.io/chess/)  
-2. [Sopa de letras, busca si existe una palabra en todas direcciones en una gran matriz de letras](https://codepen.io/corochena/full/VbbzzP/)  
+2. [Sopa de letras, busca si existe una palabra en todas direcciones en una gran matriz de letras](https://corochena.github.io/soup-letter/)  
 3. [Vocabulario, presenta imagenes de palabras comunes, las pronuncia y toca un sonido si esta disponible](https://corochena.github.io/vocab/)  
 4. [Campos electricos de n cargas puntuales](https://corochena.github.io/electric-field/)  
-5. [Conexion de puntos en un circulo formando un patron de lineas](https://codepen.io/corochena/full/GdOLpz/)  
+5. [Conexion de puntos en un circulo formando un patron de lineas](https://corochena.github.io/polilines/)  
 6. [Aproximaciones de Pi, d3 visualization](https://corochena.github.io/pi/)  
 7. [Aproximacion de Pi, Buffon´s needle](https://corochena.github.io/buffon-needle/)  
-8. [Numeros a Letras, convierte un numero 146 a letras ciento cuarenta y seis, llega hasta los quintillones](https://codepen.io/corochena/full/YEXRBe/)  
+8. [Numeros a Letras, convierte un numero 146 a letras ciento cuarenta y seis, llega hasta los quintillones](https://corochena.github.io/numtoletras/)  
 9. [Poligons, muestra poligonos y estrellas, girando](https://corochena.github.io/polygons/)  
-10. [Superposicion de ondas senoidales](https://codepen.io/corochena/full/BRRZyo/)  
+10. [Superposicion de ondas senoidales](https://corochena.github.io/superposition/)  
 
 # Proyectos en Python
 1. [Descifra un codigo cifrado en Vigenere](http://www.codeskulptor.org/#user38_5N4oprCuHA_0.py)  
@@ -31,15 +31,15 @@ Shapes, colors and numbers with Web Speech API
 4. [Juego Blackjack](http://www.codeskulptor.org/#user38_Bl9390ut0w_2.py)  
 
 # Proyectos freeCodeCamp, Coursera, Udemy
-1. [Juego Simon, fcc](https://codepen.io/corochena/full/gWKjzr/)  
-2. [Calculadora, fcc](https://codepen.io/corochena/full/LyOqeV/)  
+1. [Juego Simon, fcc](https://corochena.github.io/simon/)  
+2. [Calculadora, fcc](https://corochena.github.io/calculadora/)  
 3. [Gross Domestic Product USA, d3 visualization, fcc](https://corochena.github.io/barchart/)  
 4. [Doping scatter chart, d3 visualization, fcc](https://corochena.github.io/scatterplot/)  
 5. [Global temperature, d3 visualizacion, fcc](https://corochena.github.io/heat-map/)  
 6. [Divs and colors, coursera](https://codepen.io/corochena/pen/pPPraY)
 7. [Grid and colors, coursera](https://codepen.io/corochena/full/eWWEeq/)
 8. [Patatap clone, curso Colt Steele udemy](https://corochena.github.io/patatap/)  
-9. [RGB game, curso Colt Steele udemy](https://codepen.io/corochena/full/vpVLyM/)  
+9. [RGB game, curso Colt Steele udemy](https://corochena.github.io/color-game/)  
 
 # Matematicas
 1. [Resuelve un sistema de n ecuaciones usando Gauss simple](https://codepen.io/corochena/full/RLgMvr/)  
