@@ -40,6 +40,7 @@ Shapes, colors and numbers with Web Speech API
 7. [Grid and colors, coursera](https://codepen.io/corochena/full/eWWEeq/)
 8. [Patatap clone, curso Colt Steele udemy](https://corochena.github.io/patatap/)  
 9. [RGB game, curso Colt Steele udemy](https://corochena.github.io/color-game/)  
+10. [Pomodoro clock](https://corochena.github.io/pomodoro/)
 
 # Matematicas
 1. [Resuelve un sistema de n ecuaciones usando Gauss simple](https://codepen.io/corochena/full/RLgMvr/)  
