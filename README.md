@@ -32,7 +32,7 @@ Shapes, colors and numbers with Web Speech API
 
 # Proyectos freeCodeCamp, Coursera, Udemy
 1. [Juego Simon, fcc](https://corochena.github.io/simon/)  
-2. [Calculadora, fcc](https://corochena.github.io/calculadora/)  
+2. [Calculadora, fcc](https://corochena.github.io/calculator/)  
 3. [Gross Domestic Product USA, d3 visualization, fcc](https://corochena.github.io/barchart/)  
 4. [Doping scatter chart, d3 visualization, fcc](https://corochena.github.io/scatterplot/)  
 5. [Global temperature, d3 visualizacion, fcc](https://corochena.github.io/heat-map/)  
