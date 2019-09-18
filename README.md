@@ -48,3 +48,4 @@ Shapes, colors and numbers with Web Speech API
 2. [Hace un modelo de regresion multiple o regresion polinomial](https://corochena.github.io/regresion/)  
 3. [Integrales dobles y triples](https://codepen.io/corochena/pen/XzzOya)  
 4. [Triangulo de Pascal](https://codepen.io/corochena/pen/qogGqr)
+5. [Tiempo de trayectorias rectilineas bajo la gravedad](https://corochena.github.io/timepath/)
